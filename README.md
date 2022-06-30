@@ -30,7 +30,7 @@ This example react app uses mobx for state management in react app along with es
 Requires [Node.js](https://nodejs.org/en/) to build and run.
 Install the dependencies and devDependencies and start the server using below commands.
 
-### `cd react-todo-app`
+### `cd react-mobx-app`
 ### `npm i`
 ### `npm start`
 
