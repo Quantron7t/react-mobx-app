@@ -1,4 +1,3 @@
-import { Observer } from "mobx-react-lite";
 import { Component } from "react";
 import { Rates } from "../types/Rates";
 import CurrencyItem from "./currencyItem";

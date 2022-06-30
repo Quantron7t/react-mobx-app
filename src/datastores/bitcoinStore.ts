@@ -13,7 +13,6 @@ class BitcoinStore {
     }
     
     setRates = (data : Rates) => {
-        //let obj: IRates = JSON.parse(data);
         this.rates = data;
         console.log('data :',data);
     }

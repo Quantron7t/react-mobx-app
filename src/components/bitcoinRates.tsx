@@ -1,5 +1,5 @@
 import { observer } from "mobx-react";
-import {Component} from "react";
+import { Component } from "react";
 import { bitcoinStore } from "../datastores/bitcoinStore";
 import CurrencyList from "./currencyList";
 
