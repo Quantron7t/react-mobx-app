@@ -1,4 +1,4 @@
-# Creating a Todo list React App with Typescript
+# Creating a bitcoin rates display app with Mobx and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
